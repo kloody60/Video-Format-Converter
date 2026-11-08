@@ -1,6 +1,6 @@
 {
-    "sha256":  "9AB802B3DEFCA1F6F170E7887875EDE0BCA608DEDD8A334FF5F825B0ECE86539",
-    "url":  "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/1.5/VideoFormatConverter.exe",
-    "version":  "1.5",
-    "notes":  "AI upscaling window, parallel videos selector moved to main window"
+    "sha256":  "75A9D962B8748AA421231894EB145190DCC7A76BACD134B3CF78587DC4CC5FB7",
+    "url":  "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/1.6/VideoFormatConverter.exe",
+    "version":  "1.6",
+    "notes":  "New AI upscale window with before/after preview"
 }
