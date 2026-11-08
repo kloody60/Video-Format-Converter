@@ -1,6 +1,6 @@
 {
-    "sha256":  "75A9D962B8748AA421231894EB145190DCC7A76BACD134B3CF78587DC4CC5FB7",
-    "url":  "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/1.6/VideoFormatConverter.exe",
-    "version":  "1.6",
-    "notes":  "New AI upscale window with before/after preview"
+    "sha256":  "41E31BE871E5EAE3F3B39E5AA90B2B6690100F7DA44DD9955DDABF1225DC553C",
+    "url":  "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/1.7/VideoFormatConverter.exe",
+    "version":  "1.7",
+    "notes":  "Save-folder picker now shows video files"
 }
