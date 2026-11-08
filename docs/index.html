@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>تحويل صيغة الفيديو · Video Format Converter</title>
+<meta name="description" content="Convert any video to any format with GPU + CPU, AI upscaling to 4K, and automatic subtitle translation.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap bar">
+    <a class="brand" href="#"><span class="logo">▶</span><span data-i="brand">تحويل صيغة الفيديو</span></a>
+    <nav>
+      <a href="#features" data-i="nav_features">المميزات</a>
+      <a href="#buy" data-i="nav_buy">الشراء</a>
+    </nav>
+    <div class="actions">
+      <button id="langBtn" class="ghost">English</button>
+      <span id="userBox" hidden><span id="userMail"></span> <button id="logoutBtn" class="ghost" data-i="logout">خروج</button></span>
+      <button id="loginBtn" class="primary sm" data-i="login">تسجيل الدخول</button>
+    </div>
+  </div>
+</header>
+
+<main>
+<section class="hero wrap">
+  <h1 data-i="h1">حوّل أي فيديو إلى أي صيغة<br><span class="grad">بقوة كرت الشاشة والمعالج معاً</span></h1>
+  <p class="lead" data-i="lead">برنامج ويندوز واحد: تحويل سريع، رفع الدقة بالذكاء الاصطناعي حتى 4K و8x، وترجمة الفيديو بأي لغة وتثبيتها على الشاشة.</p>
+  <div class="cta">
+    <a class="primary" href="#buy" data-i="cta_buy">اشترِ الآن</a>
+    <a class="ghost big" href="#features" data-i="cta_more">اعرف أكثر</a>
+  </div>
+  <div class="shot"><div class="win">
+    <div class="winbar"><i></i><i></i><i></i></div>
+    <div class="winbody">
+      <div class="row"><b>MP4</b><span>MKV</span><span>AVI</span><span>MOV</span><span>TS</span><span>WebM</span></div>
+      <div class="row"><span>720p</span><b>1080p</b><span>2K</span><span>4K</span></div>
+      <div class="bar2"><div></div></div>
+    </div>
+  </div></div>
+</section>
+
+<section id="features" class="wrap">
+  <h2 data-i="f_title">كل شي تحتاجه في برنامج واحد</h2>
+  <div class="grid">
+    <article><div class="ic">⚡</div><h3 data-i="f1t">تحويل بأقصى سرعة</h3><p data-i="f1d">يستخدم كرت الشاشة (NVENC) والمعالج والرامات معاً، ويحوّل عدة فيديوهات بالتوازي.</p></article>
+    <article><div class="ic">✨</div><h3 data-i="f2t">رفع الدقة بالذكاء الاصطناعي</h3><p data-i="f2d">من 144p إلى 4K: خيارات 2K و2x و4x و8x مع معاينة قبل/بعد.</p></article>
+    <article><div class="ic">🌐</div><h3 data-i="f3t">ترجمة الفيديو</h3><p data-i="f3d">يتعرّف على الكلام في أكثر من 40 لغة ويترجمه، ويثبّت الترجمة في المكان اللي تختاره على الشاشة.</p></article>
+    <article><div class="ic">🎛</div><h3 data-i="f4t">أي صيغة إلى أي صيغة</h3><p data-i="f4d">MP4 وMKV وAVI وMOV وTS وWebM وMP3 وغيرها، مع جودة 720p حتى 4K.</p></article>
+    <article><div class="ic">🗂</div><h3 data-i="f5t">تنظيم تلقائي</h3><p data-i="f5d">نقل الأصلية إلى مجلد، أو حذفها بعد التحويل، وإيقاف مؤقت وإلغاء لكل ملف.</p></article>
+    <article><div class="ic">🔄</div><h3 data-i="f6t">تحديثات من داخل البرنامج</h3><p data-i="f6d">واجهة عربية وإنجليزية، وتحديث بضغطة واحدة من الإعدادات.</p></article>
+  </div>
+</section>
+
+<section id="buy" class="wrap">
+  <div class="price">
+    <h2 data-i="p_title">احصل على البرنامج</h2>
+    <div class="amount"><span id="priceTxt">$19.99</span><small data-i="p_once">دفعة واحدة · بدون اشتراك</small></div>
+    <ul>
+      <li data-i="p1">ترخيص دائم للبرنامج</li>
+      <li data-i="p2">كل التحديثات القادمة</li>
+      <li data-i="p3">مثبّت ويندوز جاهز</li>
+    </ul>
+
+    <div id="stGuest" class="state">
+      <p class="hint" data-i="need_login">سجّل دخولك أولاً عشان تقدر تدفع وتنزّل.</p>
+      <button id="loginBtn2" class="primary wide" data-i="login">تسجيل الدخول</button>
+    </div>
+    <div id="stPay" class="state" hidden>
+      <div id="paypal"></div>
+      <p class="hint" data-i="paynote">الدفع آمن عبر PayPal، ما نشوف بيانات بطاقتك.</p>
+    </div>
+    <div id="stPaid" class="state" hidden>
+      <p class="ok" data-i="thanks">✓ تم الشراء. شكراً لك!</p>
+      <a id="dl" class="primary wide" href="#" data-i="download">تنزيل البرنامج</a>
+    </div>
+    <div id="stPending" class="state" hidden>
+      <p class="hint" data-i="pending">جاري التحقق من الدفع… حدّث الصفحة بعد لحظات.</p>
+    </div>
+    <p id="msg" class="hint"></p>
+  </div>
+</section>
+</main>
+
+<footer class="wrap foot"><span data-i="foot">© تحويل صيغة الفيديو — Windows 10/11</span></footer>
+
+<div id="modal" class="modal" hidden>
+  <div class="card">
+    <button class="x" id="closeModal">✕</button>
+    <h3 id="mTitle" data-i="login">تسجيل الدخول</h3>
+    <button id="gBtn" class="google"><svg width="18" height="18" viewBox="0 0 48 48"><path fill="#EA4335" d="M24 9.5c3.5 0 6.6 1.2 9.1 3.6l6.8-6.8C35.8 2.4 30.3 0 24 0 14.6 0 6.5 5.4 2.6 13.2l7.9 6.1C12.4 13.6 17.7 9.5 24 9.5z"/><path fill="#4285F4" d="M46.5 24.5c0-1.6-.1-3.1-.4-4.5H24v9h12.7c-.6 3-2.3 5.5-4.8 7.2l7.5 5.8c4.4-4.1 7.1-10.1 7.1-17.5z"/><path fill="#FBBC05" d="M10.5 28.7a14.5 14.5 0 010-9.4l-7.9-6.1a24 24 0 000 21.6l7.9-6.1z"/><path fill="#34A853" d="M24 48c6.5 0 12-2.1 16-5.8l-7.5-5.8c-2.1 1.4-4.9 2.3-8.5 2.3-6.3 0-11.6-4.1-13.5-9.8l-7.9 6.1C6.5 42.6 14.6 48 24 48z"/></svg><span data-i="google">المتابعة عبر Google</span></button>
+    <div class="or"><span data-i="or">أو بالبريد</span></div>
+    <input id="email" type="email" placeholder="Email" autocomplete="email">
+    <input id="pass" type="password" placeholder="Password" autocomplete="current-password">
+    <button id="submitBtn" class="primary wide" data-i="login">تسجيل الدخول</button>
+    <p class="switch"><a href="#" id="toggleMode" data-i="to_register">ما عندك حساب؟ أنشئ حساباً</a> · <a href="#" id="resetBtn" data-i="forgot">نسيت كلمة المرور</a></p>
+    <p id="mErr" class="err"></p>
+  </div>
+</div>
+
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
