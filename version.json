@@ -1,6 +1,6 @@
 {
-    "sha256":  "DC7AB7DD8DA2DAED9702D93136AFA8D864630B33B4AEEF2647F56A097EDE5197",
-    "url":  "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/1.8/VideoFormatConverter.exe",
-    "version":  "1.8",
-    "notes":  "إزالة رابط المصدر وزر التثبيت من ملف من الإعدادات"
+    "sha256":  "FB67A13D5B6D8CE709351D754A9B0C8B52257C57B2ACB13F5ED8E10826A806D9",
+    "url":  "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/1.9/VideoFormatConverter.exe",
+    "version":  "1.9",
+    "notes":  "ترجمة الفيديو: تحويل الكلام إلى نص وترجمته لأي لغة وتثبيته على الفيديو"
 }
