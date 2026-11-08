@@ -1,6 +1,6 @@
 {
-    "sha256":  "F98732509AD2C02CB977A6B066E49E9C9BE5255819948EA58A85A0952DE44A05",
-    "url":  "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/2.0/VideoFormatConverter.exe",
-    "version":  "2.0",
-    "notes":  "مظهر فاتح/داكن/مثل النظام، وخيار الحجم الأصلي مع تحسين AI"
+    "sha256":  "66A434EE9187C274D88CE406A1906C28682358F20C4EF95449AE0C32A186EF45",
+    "url":  "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/2.1/VideoFormatConverter.exe",
+    "version":  "2.1",
+    "notes":  "إصلاح تغيير المظهر (فاتح/داكن) في الإعدادات"
 }
