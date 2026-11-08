@@ -1,6 +1,6 @@
 {
-    "sha256":  "375475726C05571261AA7EE739808A1F0252B7A32F7FFD7EC9ED78675CDA5EF9",
-    "url":  "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/1.4/VideoFormatConverter.exe",
-    "version":  "1.4",
-    "notes":  "Limit parallel videos (default 2, adjustable in Settings)"
+    "sha256":  "9AB802B3DEFCA1F6F170E7887875EDE0BCA608DEDD8A334FF5F825B0ECE86539",
+    "url":  "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/1.5/VideoFormatConverter.exe",
+    "version":  "1.5",
+    "notes":  "AI upscaling window, parallel videos selector moved to main window"
 }
