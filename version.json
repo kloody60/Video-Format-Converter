@@ -1,6 +1,6 @@
 {
-    "sha256":  "41E31BE871E5EAE3F3B39E5AA90B2B6690100F7DA44DD9955DDABF1225DC553C",
-    "url":  "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/1.7/VideoFormatConverter.exe",
-    "version":  "1.7",
-    "notes":  "Save-folder picker now shows video files"
+    "sha256":  "DC7AB7DD8DA2DAED9702D93136AFA8D864630B33B4AEEF2647F56A097EDE5197",
+    "url":  "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/1.8/VideoFormatConverter.exe",
+    "version":  "1.8",
+    "notes":  "إزالة رابط المصدر وزر التثبيت من ملف من الإعدادات"
 }
