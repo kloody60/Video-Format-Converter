@@ -1,6 +1,6 @@
 {
-    "sha256":  "A8C2CC7DBBD420EB5930D08F59452672FA2007FE30AB30B3953B12003F7CFFA8",
-    "url":  "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/1.3/VideoFormatConverter.exe",
-    "version":  "1.3",
-    "notes":  "Update 1.3"
+    "sha256":  "375475726C05571261AA7EE739808A1F0252B7A32F7FFD7EC9ED78675CDA5EF9",
+    "url":  "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/1.4/VideoFormatConverter.exe",
+    "version":  "1.4",
+    "notes":  "Limit parallel videos (default 2, adjustable in Settings)"
 }
