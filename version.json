@@ -1,6 +1,6 @@
 {
-  "version": "4.7",
-  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v4.7/VideoFormatConverter.exe?download=1",
-  "sha256": "CBCD2D02F97026B057AE2F107A9B00AF0D87E77CB68DE49EC84B74D47B45ADF2",
-  "notes": "إصلاح محمّل الفيديو: تضمين دعم Cloudflare للمواقع المحمية وتحسين رسالة روابط حسابات X لتطلب رابط المنشور أو الفيديو."
+  "version": "4.8",
+  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v4.8/VideoFormatConverter.exe?download=1",
+  "sha256": "0FFE8E29F73C20EF1DD4E1E467A015575CF739354930D8CC15B8FEEE4DB53A50",
+  "notes": "ترتيب الملفات: معاينة وخطة مع تأكيد قبل النقل، سجل moves_log.csv، واستثناء الملفات المشبوهة. تحميل الفيديوهات: نسخ يدوي لكل الروابط أو روابط التحميل الفاشل."
 }
