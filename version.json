@@ -1,6 +1,6 @@
 {
-  "notes": "إضافة خدمات ترجمة Google وGemini وOpenAI بمفاتيح المستخدم، ومراجعة OpenAI اختيارية، وترجمة AI بسياق المقاطع، وضبط تقديم وتأخير الترجمة، وتحسين قراءة التوقيت ومنع النتائج الناقصة. خدمات AI تحتاج تجربة بمفاتيحك الخاصة.",
-  "sha256": "9A78852B6AE1328E7ED82666520B9B9F05EBF2D14DD34BCBB30B2F26FC6889A5",
-  "url": "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/2.2/VideoFormatConverter.exe",
-  "version": "2.2"
+  "sha256": "4CCF2C194CE162DFC6C8419C309A6EE502EF36397A5537DB4D4F2ED27FF022B7",
+  "url": "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/2.3/VideoFormatConverter.exe",
+  "notes": "إصلاح طلب ترجمة ومراجعة OpenAI في وضع JSON. استخدام OpenAI يحتاج رصيد API متاحاً؛ يمكن تشغيل Gemini دون مراجعة OpenAI.",
+  "version": "2.3"
 }
