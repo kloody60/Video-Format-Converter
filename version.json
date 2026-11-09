@@ -1,6 +1,6 @@
 {
-  "version": "2.4",
-  "notes": "إصلاح انتهاء مهلة ترجمة Gemini: انتظار حتى خمس دقائق للطلب وتقليل حجم دفعات الترجمة وإظهار سبب أخطاء الشبكة ورفض الطلب بوضوح. اختُبر Gemini بنجاح من كود البرنامج.",
-  "sha256": "1FB354780C7D849E7729F14BCAA5043A97F9637D0C366BD50B91275E03A893E3",
-  "url": "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/2.4/VideoFormatConverter.exe"
+  "sha256": "DD592E36DF43E33387BEB8120D65BEAA26411848C45F71E32678BD33EC8BCB9F",
+  "notes": "إضافة DeepSeek للترجمة واختيار خدمة المراجعة بشكل مستقل بين Gemini وDeepSeek وOpenAI. مفاتيح المستخدم محفوظة مشفرة. اختيار المترجم والمراجع من خدمات الترجمة والتوقيت.",
+  "url": "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/2.5/VideoFormatConverter.exe",
+  "version": "2.5"
 }
