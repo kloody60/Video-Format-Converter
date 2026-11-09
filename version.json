@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v3.8/VideoFormatConverter.exe?download=1",
-  "notes": "إصلاح فحص محتوى الفيديو بالذكاء الاصطناعي: معالجة رد النموذج كنص بدلاً من مسار ملف، وعمل الفحص محلياً بنجاح مع اللقطات واسم الفيديو.",
-  "sha256": "CD808E37519794328BED23D04E5B75AD0F901C5A1FB6A24003C17ADD8E2DB282",
-  "version": "3.8"
+  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v3.9/VideoFormatConverter.exe?download=1",
+  "notes": "إصلاح تشغيل فحص محتوى الفيديو بالذكاء الاصطناعي: Ollama يستخدم منفذاً محلياً بديلاً تلقائياً عند حجز المنفذ الافتراضي.",
+  "version": "3.9",
+  "sha256": "997EE221327CB4066A3B716389546DAEEDA96069400E7F527E3410750B50E7C6"
 }
