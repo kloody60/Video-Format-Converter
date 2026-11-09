@@ -1,6 +1,6 @@
 {
-  "sha256": "5779842F94B2B0627AC66EFE10B264BCB346E47112EE4EAB34703BE1F4C84857",
-  "notes": "توسيع ترتيب الملفات اعتمادًا على قائمة العينات: 127 تصنيفًا و261 دولة ومنطقة وأكثر من 5,000 كلمة وعبارة متعددة اللغات.",
-  "version": "4.6",
-  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v4.6/VideoFormatConverter.exe?download=1"
+  "sha256": "CBCD2D02F97026B057AE2F107A9B00AF0D87E77CB68DE49EC84B74D47B45ADF2",
+  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v4.7/VideoFormatConverter.exe?download=1",
+  "version": "4.7",
+  "notes": "إصلاح محمّل الفيديو: تضمين دعم Cloudflare للمواقع المحمية وتحسين رسالة روابط حسابات X لتطلب رابط المنشور أو الفيديو."
 }
