@@ -1,6 +1,6 @@
 {
-  "notes": "تحسين ترتيب الملفات: يقرأ الكلمات الظاهرة في الاسم ويجمع الدولة والتصنيف في مجلد واحد واضح، بدلاً من إخفائها ضمن تصنيف عام أو مجلدات متداخلة.",
-  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v3.3/VideoFormatConverter.exe?download=1",
-  "version": "3.3",
-  "sha256": "2C651874109E2A5BED472C278AB5DD5B4D97E309777C5A3FC5D7F606D5F0E7FB"
+  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v3.5/VideoFormatConverter.exe?download=1",
+  "notes": "تحسين كبير لترتيب الملفات: قراءة أدق للعبارات المركبة والعلاقات والوظائف والأماكن، ودعم موسع لأسماء الملفات العربية والإنجليزية والروسية واليابانية والصينية والكورية والتركية والفرنسية والإسبانية والبرتغالية. يشمل الفحص المجلدات الفرعية تلقائياً.",
+  "sha256": "0B7C08333BACF696B39F75DE67519E039DF33624141B84B0170B8CB303CF9640",
+  "version": "3.5"
 }
