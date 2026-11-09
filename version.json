@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v3.6/VideoFormatConverter.exe?download=1",
-  "version": "3.6",
-  "sha256": "EEF790284C36D290CB57A0FE8F7218B55D2082D2E9D95C6971E1CD614B97CC36",
-  "notes": "ترتيب الملفات مباشرة داخل المجلد المختار: لا ينشئ مجلد «ملفات مرتبة» إضافياً، وحذف النص التوضيحي من الواجهة. الملفات المصنفة مسبقاً لا يعاد نقلها."
+  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v3.7/VideoFormatConverter.exe?download=1",
+  "sha256": "CA2FB2D9E6769962A1720DFAB3DBA7061059786E9D121618C543294489F1AF6A",
+  "version": "3.7",
+  "notes": "أداة فحص محتوى الفيديو محلياً بالذكاء الاصطناعي: تجمع اسم الفيديو مع ثلاث لقطات منه وتعرض تصنيفاً مقترحاً في المعاينة قبل النقل. تعمل بنموذج Gemma3 المحلي دون مفتاح أو رفع الفيديو."
 }
