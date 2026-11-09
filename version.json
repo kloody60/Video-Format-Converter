@@ -1,6 +1,6 @@
 {
-  "notes": "حفظ روابط الفيديوهات تلقائياً في مجلد التحميل: كل رابط بسطر مستقل بدون أرقام أو شرطات.",
-  "version": "5.1",
-  "sha256": "7C579F70087DAE07EB48AC5E866E00EC5F37D1A901915081FFF2EFC903A0789D",
-  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v5.1/VideoFormatConverter.exe?download=1"
+  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v5.2/VideoFormatConverter.exe?download=1",
+  "notes": "تحميل الفيديوهات: فلترة روابط الأقسام وصور الحسابات وتصحيح إعداد اتصال مستخرج الروابط العام للمواقع المحمية.",
+  "sha256": "2B7746E177B6A81DE26196D5269E6BE500811C5D115478A9A4F0CC6368E310CD",
+  "version": "5.2"
 }
