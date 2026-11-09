@@ -1,6 +1,6 @@
 {
-  "sha256": "4CCF2C194CE162DFC6C8419C309A6EE502EF36397A5537DB4D4F2ED27FF022B7",
-  "url": "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/2.3/VideoFormatConverter.exe",
-  "notes": "إصلاح طلب ترجمة ومراجعة OpenAI في وضع JSON. استخدام OpenAI يحتاج رصيد API متاحاً؛ يمكن تشغيل Gemini دون مراجعة OpenAI.",
-  "version": "2.3"
+  "version": "2.4",
+  "notes": "إصلاح انتهاء مهلة ترجمة Gemini: انتظار حتى خمس دقائق للطلب وتقليل حجم دفعات الترجمة وإظهار سبب أخطاء الشبكة ورفض الطلب بوضوح. اختُبر Gemini بنجاح من كود البرنامج.",
+  "sha256": "1FB354780C7D849E7729F14BCAA5043A97F9637D0C366BD50B91275E03A893E3",
+  "url": "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/2.4/VideoFormatConverter.exe"
 }
