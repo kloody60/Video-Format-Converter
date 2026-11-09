@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v3.5/VideoFormatConverter.exe?download=1",
-  "notes": "تحسين كبير لترتيب الملفات: قراءة أدق للعبارات المركبة والعلاقات والوظائف والأماكن، ودعم موسع لأسماء الملفات العربية والإنجليزية والروسية واليابانية والصينية والكورية والتركية والفرنسية والإسبانية والبرتغالية. يشمل الفحص المجلدات الفرعية تلقائياً.",
-  "sha256": "0B7C08333BACF696B39F75DE67519E039DF33624141B84B0170B8CB303CF9640",
-  "version": "3.5"
+  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v3.6/VideoFormatConverter.exe?download=1",
+  "version": "3.6",
+  "sha256": "EEF790284C36D290CB57A0FE8F7218B55D2082D2E9D95C6971E1CD614B97CC36",
+  "notes": "ترتيب الملفات مباشرة داخل المجلد المختار: لا ينشئ مجلد «ملفات مرتبة» إضافياً، وحذف النص التوضيحي من الواجهة. الملفات المصنفة مسبقاً لا يعاد نقلها."
 }
