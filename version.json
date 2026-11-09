@@ -1,6 +1,6 @@
 {
-  "notes": "ترجمة الفيديو: إضافة خانة سجل ورسالة نسخ سجل الخطأ لتسهيل إرسال تفاصيل المشكلة. تحميل الفيديوهات: حفظ روابط الفيديوهات TXT مرقم حتى 1000 رابط.",
-  "sha256": "66EBB621F336693D3F88FDF18708806A7E2923C6EAD0A45227AA47EE3A52EE6E",
   "version": "5.0",
-  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v5.0/VideoFormatConverter.exe?download=1"
+  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v5.0/VideoFormatConverter.exe?download=1",
+  "notes": "ترجمة الفيديو: إضافة خانة سجل ورسالة نسخ سجل الخطأ لتسهيل إرسال تفاصيل المشكلة. تحميل الفيديوهات: حفظ روابط الفيديوهات TXT مرقم حتى 1000 رابط.",
+  "sha256": "66EBB621F336693D3F88FDF18708806A7E2923C6EAD0A45227AA47EE3A52EE6E"
 }
