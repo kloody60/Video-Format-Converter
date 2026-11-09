@@ -1,6 +1,6 @@
 {
-  "sha256": "DD592E36DF43E33387BEB8120D65BEAA26411848C45F71E32678BD33EC8BCB9F",
-  "notes": "إضافة DeepSeek للترجمة واختيار خدمة المراجعة بشكل مستقل بين Gemini وDeepSeek وOpenAI. مفاتيح المستخدم محفوظة مشفرة. اختيار المترجم والمراجع من خدمات الترجمة والتوقيت.",
-  "url": "https://raw.githubusercontent.com/kloody60/Video-Format-Converter/main/releases/2.5/VideoFormatConverter.exe",
-  "version": "2.5"
+  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/untagged-e80f4a2d415f5efcfb18/VideoFormatConverter.exe",
+  "version": "2.9",
+  "sha256": "9DF9BF9B03111C91324ACC2693B91AE170365A32151E828CA0D1023D1504BB73",
+  "notes": "إضافة تحميل الفيديوهات داخل واجهة البرنامج مع الجودة والتحميل الجماعي والإيقاف والاستئناف وZIP، ودعم المظهر الفاتح والداكن. تشمل النسخة أيضاً استكمال ترجمة AI والمراجعة من آخر دفعة محفوظة وأوضاع سرعة استخراج الكلام وإخفاء شريط التمرير."
 }
