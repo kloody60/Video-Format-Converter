@@ -1,6 +1,6 @@
 {
-  "version": "4.5",
-  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v4.5/VideoFormatConverter.exe?download=1",
-  "notes": "توسيع ترتيب الملفات: دعم كلمات روسية وصينية ويابانية وكورية وتركية إضافية، وصيغ روسية متعددة وأسماء إضافية مكتوبة في العناوين.",
-  "sha256": "896C384F9552711B604F7078C594245900FBE44A4C836EB00B236FE2921AD333"
+  "sha256": "5779842F94B2B0627AC66EFE10B264BCB346E47112EE4EAB34703BE1F4C84857",
+  "notes": "توسيع ترتيب الملفات اعتمادًا على قائمة العينات: 127 تصنيفًا و261 دولة ومنطقة وأكثر من 5,000 كلمة وعبارة متعددة اللغات.",
+  "version": "4.6",
+  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v4.6/VideoFormatConverter.exe?download=1"
 }
