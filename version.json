@@ -1,6 +1,6 @@
 {
-  "notes": "ترتيب الملفات: معاينة وخطة مع تأكيد قبل النقل، سجل moves_log.csv، واستثناء الملفات المشبوهة. تحميل الفيديوهات: نسخ يدوي لكل الروابط أو روابط التحميل الفاشل.",
-  "version": "4.8",
-  "sha256": "0FFE8E29F73C20EF1DD4E1E467A015575CF739354930D8CC15B8FEEE4DB53A50",
-  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v4.8/VideoFormatConverter.exe?download=1"
+  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v4.9/VideoFormatConverter.exe?download=1",
+  "version": "4.9",
+  "sha256": "A795E6D402FDB7AACF2C1A82208050A09A41836515923A7C267D4FAB801B8564",
+  "notes": "تحميل الفيديوهات: إضافة حفظ كل روابط القائمة في ملف روابط الفيديوهات.txt واحد، مرقم من 1 حتى 1000 رابط."
 }
