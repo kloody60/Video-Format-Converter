@@ -1,6 +1,6 @@
 {
+  "notes": "ترتيب الملفات: معاينة وخطة مع تأكيد قبل النقل، سجل moves_log.csv، واستثناء الملفات المشبوهة. تحميل الفيديوهات: نسخ يدوي لكل الروابط أو روابط التحميل الفاشل.",
   "version": "4.8",
-  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v4.8/VideoFormatConverter.exe?download=1",
   "sha256": "0FFE8E29F73C20EF1DD4E1E467A015575CF739354930D8CC15B8FEEE4DB53A50",
-  "notes": "ترتيب الملفات: معاينة وخطة مع تأكيد قبل النقل، سجل moves_log.csv، واستثناء الملفات المشبوهة. تحميل الفيديوهات: نسخ يدوي لكل الروابط أو روابط التحميل الفاشل."
+  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v4.8/VideoFormatConverter.exe?download=1"
 }
