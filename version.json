@@ -1,6 +1,6 @@
 {
-  "notes": "إضافة ترتيب الملفات حسب أسماء الدول والتصنيفات بلغات متعددة مع معاينة ونقل وتراجع، والأسماء الرقمية أو غير المعروفة في غير مصنفة. إزالة تأكيد الاستكمال، وحفظ تقدم ترجمة AI والمراجعة، وإعادة محاولة الاتصالات المنقطعة وتقليل الدفعات المتعثرة. تشمل قائمة الدول 257 بلداً ومنطقة بأسماء في 18 لغة.",
-  "version": "3.1",
-  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v3.1/VideoFormatConverter.exe",
-  "sha256": "16D6FB366FEF81FE1CF7F58E9F85BBE8AFEDBCE7DFD0B911DABDB7C561E58741"
+  "notes": "تحسين ترتيب الملفات: يقرأ الكلمات الظاهرة في الاسم ويجمع الدولة والتصنيف في مجلد واحد واضح، بدلاً من إخفائها ضمن تصنيف عام أو مجلدات متداخلة.",
+  "version": "3.3",
+  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v3.3/VideoFormatConverter.exe",
+  "sha256": "2C651874109E2A5BED472C278AB5DD5B4D97E309777C5A3FC5D7F606D5F0E7FB"
 }
