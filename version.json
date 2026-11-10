@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v5.2/VideoFormatConverter.exe?download=1",
-  "notes": "تحميل الفيديوهات: فلترة روابط الأقسام وصور الحسابات وتصحيح إعداد اتصال مستخرج الروابط العام للمواقع المحمية.",
-  "sha256": "2B7746E177B6A81DE26196D5269E6BE500811C5D115478A9A4F0CC6368E310CD",
-  "version": "5.2"
+  "sha256": "DB86A935FD639BCDC87EF690A4A2C7F59A4F661F9A0E37D6BC655430B8938799",
+  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v5.3/VideoFormatConverter.exe?download=1",
+  "version": "5.3",
+  "notes": "تحميل الفيديوهات: زيادة محاولات الوصول للملفات المقفلة مؤقتاً واستخدام أسماء مميزة لكل رابط لتقليل تعارض التحميل المتوازي."
 }
