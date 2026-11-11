@@ -1,6 +1,6 @@
 {
-    "sha256":  "75F047051BD07014667FBFE8BA50009A62A2B20792FFEC534FECADEBCC532187",
-    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v6.1/VideoFormatConverter.exe?download=1",
-    "version":  "6.1",
-    "notes":  "تحميل الفيديوهات: عند فحص رابط موقع يعرض البرنامج صفحات الفيديو فقط ويستبعد صفحات الأقسام والوسوم والقنوات والبحث."
+    "sha256":  "4D281407B908E81364C4AF813E5161ECE378E66701AAB092589C41B6598F43E5",
+    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v6.2/VideoFormatConverter.exe?download=1",
+    "version":  "6.2",
+    "notes":  "رفع الدقة والترجمة وترتيب الملفات تكمل شغلها بالخلفية عند الخروج من صفحتها، مع علامة على زر الأداة الشغالة، وسؤال الإيقاف يظهر فقط عند قفل البرنامج."
 }
