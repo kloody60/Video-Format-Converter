@@ -1,6 +1,6 @@
 {
-  "sha256": "DB86A935FD639BCDC87EF690A4A2C7F59A4F661F9A0E37D6BC655430B8938799",
-  "url": "https://github.com/kloody60/Video-Format-Converter/releases/download/v5.3/VideoFormatConverter.exe?download=1",
-  "version": "5.3",
-  "notes": "تحميل الفيديوهات: زيادة محاولات الوصول للملفات المقفلة مؤقتاً واستخدام أسماء مميزة لكل رابط لتقليل تعارض التحميل المتوازي."
+    "sha256":  "718436F01AC7332C0FE12491BCC45101A49E2E7371892733F3594350CFD43282",
+    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v5.5/VideoFormatConverter.exe?download=1",
+    "version":  "5.5",
+    "notes":  "تحميل الفيديوهات يفتح الآن داخل نافذة البرنامج نفسها بدل نافذة ثانية، وإصلاح قراءة صفحات SpankBang (خطأ 403)."
 }
