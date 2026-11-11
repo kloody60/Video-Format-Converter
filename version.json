@@ -1,6 +1,6 @@
 {
-    "sha256":  "51DEA57451EF2F23190C1EE3F94AC928062FB3E76D608BD6159E3A1349326D85",
-    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v5.6/VideoFormatConverter.exe?download=1",
-    "version":  "5.6",
-    "notes":  "كل الأدوات (الترجمة، رفع الدقة، ترتيب الملفات، تحميل الفيديوهات) تفتح الآن داخل نافذة البرنامج نفسها. ترتيب الملفات: تصنيف تلقائي ذكي بدون خيارات إضافية. تحميل الفيديوهات: إعادة محاولة تلقائية عند الرفض المؤقت من الموقع وإصلاح خطأ 403."
+    "sha256":  "CD56F12160E83D3A988BC2B5A1C9FE0F0FF6C095EB9285D7F654D77F56263FC1",
+    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v5.7/VideoFormatConverter.exe?download=1",
+    "version":  "5.7",
+    "notes":  "عدد الفيديوهات بنفس الوقت صار من 1 إلى 15 (عداد + و−) والبرنامج يشغّل العدد المختار فعلاً. الزائد عن مسارات كرت الشاشة يكمل على المعالج."
 }
