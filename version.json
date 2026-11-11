@@ -1,6 +1,6 @@
 {
-    "sha256":  "718436F01AC7332C0FE12491BCC45101A49E2E7371892733F3594350CFD43282",
-    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v5.5/VideoFormatConverter.exe?download=1",
-    "version":  "5.5",
-    "notes":  "تحميل الفيديوهات يفتح الآن داخل نافذة البرنامج نفسها بدل نافذة ثانية، وإصلاح قراءة صفحات SpankBang (خطأ 403)."
+    "sha256":  "51DEA57451EF2F23190C1EE3F94AC928062FB3E76D608BD6159E3A1349326D85",
+    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v5.6/VideoFormatConverter.exe?download=1",
+    "version":  "5.6",
+    "notes":  "كل الأدوات (الترجمة، رفع الدقة، ترتيب الملفات، تحميل الفيديوهات) تفتح الآن داخل نافذة البرنامج نفسها. ترتيب الملفات: تصنيف تلقائي ذكي بدون خيارات إضافية. تحميل الفيديوهات: إعادة محاولة تلقائية عند الرفض المؤقت من الموقع وإصلاح خطأ 403."
 }
