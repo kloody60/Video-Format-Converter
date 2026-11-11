@@ -1,6 +1,6 @@
 {
-    "sha256":  "E54355C1C43776A845A97993C5CE0846149C24C0775A2ADDC76CD6DBA98E7F4D",
-    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v5.8/VideoFormatConverter.exe?download=1",
-    "version":  "5.8",
-    "notes":  "إصلاح الكتابة واللصق في خانة روابط تحميل الفيديوهات داخل النافذة، وإضافة زر لصق مباشر، وحد أقصى 15 للتحميل بنفس الوقت."
+    "sha256":  "CB099240338874B0A2F4B1FBB7D35FEA3BC6892D6D37DBFF334D64CC3977F2E2",
+    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v5.9/VideoFormatConverter.exe?download=1",
+    "version":  "5.9",
+    "notes":  "تحميل الفيديوهات: إعادة قراءة الروابط تلقائياً بمتصفح كامل عند رفض الموقع (403)، ورسالة خطأ أوضح، وحذف زري لصق ونسخ كل الروابط."
 }
