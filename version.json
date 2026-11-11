@@ -1,6 +1,6 @@
 {
-    "sha256":  "BD6D5E3F37BD8950F813816C9B620DB0618FAA36DB3F4937F919CE24E1CCEAF1",
-    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v6.0/VideoFormatConverter.exe?download=1",
-    "version":  "6.0",
-    "notes":  "ترتيب الملفات يطبق الآن قواعد سكربت التصنيف بنفس الترتيب (أنواع ثم دول) مع استثناءات أشد، وتصنيف ذكي للأسماء المتكررة."
+    "sha256":  "75F047051BD07014667FBFE8BA50009A62A2B20792FFEC534FECADEBCC532187",
+    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v6.1/VideoFormatConverter.exe?download=1",
+    "version":  "6.1",
+    "notes":  "تحميل الفيديوهات: عند فحص رابط موقع يعرض البرنامج صفحات الفيديو فقط ويستبعد صفحات الأقسام والوسوم والقنوات والبحث."
 }
