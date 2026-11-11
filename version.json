@@ -1,6 +1,6 @@
 {
-    "sha256":  "CD56F12160E83D3A988BC2B5A1C9FE0F0FF6C095EB9285D7F654D77F56263FC1",
-    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v5.7/VideoFormatConverter.exe?download=1",
-    "version":  "5.7",
-    "notes":  "عدد الفيديوهات بنفس الوقت صار من 1 إلى 15 (عداد + و−) والبرنامج يشغّل العدد المختار فعلاً. الزائد عن مسارات كرت الشاشة يكمل على المعالج."
+    "sha256":  "E54355C1C43776A845A97993C5CE0846149C24C0775A2ADDC76CD6DBA98E7F4D",
+    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v5.8/VideoFormatConverter.exe?download=1",
+    "version":  "5.8",
+    "notes":  "إصلاح الكتابة واللصق في خانة روابط تحميل الفيديوهات داخل النافذة، وإضافة زر لصق مباشر، وحد أقصى 15 للتحميل بنفس الوقت."
 }
