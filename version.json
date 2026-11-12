@@ -1,6 +1,6 @@
 {
-    "sha256":  "94C022E184FD8A0D81177FAE46FFF49C4262504D5085E36B1F67FD4C26CC3ABE",
-    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v6.4/VideoFormatConverter.exe?download=1",
-    "version":  "6.4",
-    "notes":  "تحميل الفيديوهات: تحذير واضح (تحقق من الملف) عندما يقرأ البرنامج الموقع كصفحة عادية وتكون الجودة أقل من المطلوبة، بدل رسالة أعلى متاح بالموقع."
+    "sha256":  "D747437008080F3117F02CFF337C120650946E7D059D98DDBED5FA00CF85941E",
+    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v6.5/VideoFormatConverter.exe?download=1",
+    "version":  "6.5",
+    "notes":  "تحميل الفيديوهات: متصفح خلفي يدخل صفحة الفيديو ويلقط رابط التحميل الحقيقي للمواقع التي تحمّل المشغّل بجافاسكربت، ويقرأ قوائم الفيديوهات التي تبنيها الصفحة بالجافاسكربت، مع الجودة المطلوبة."
 }
