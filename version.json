@@ -1,6 +1,6 @@
 {
-    "sha256":  "557CA234959916B658A252B475DB8AB848EC89306B1EFA813DB46C90FBD3B69A",
-    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v6.6/VideoFormatConverter.exe?download=1",
-    "version":  "6.6",
-    "notes":  "رفع الدقة بالذكاء الاصطناعي والترجمة صارا ضمن أدوات برو (مفتاح تفعيل). بقية الأدوات مجانية."
+    "sha256":  "FB35216D75E599022E14D2198BF7E816E66FD95F95E61BC9257773B031DD2A14",
+    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v6.7/VideoFormatConverter.exe?download=1",
+    "version":  "6.7",
+    "notes":  "مفاتيح التفعيل صارت قصيرة: ثلاث مجموعات من 8 خانات."
 }
