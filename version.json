@@ -1,6 +1,6 @@
 {
-    "sha256":  "4D281407B908E81364C4AF813E5161ECE378E66701AAB092589C41B6598F43E5",
-    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v6.2/VideoFormatConverter.exe?download=1",
-    "version":  "6.2",
-    "notes":  "رفع الدقة والترجمة وترتيب الملفات تكمل شغلها بالخلفية عند الخروج من صفحتها، مع علامة على زر الأداة الشغالة، وسؤال الإيقاف يظهر فقط عند قفل البرنامج."
+    "sha256":  "71794A5E8C5FF494E92EB52ADE6F2BDEEAEDFF35EAAA0BA17875AAB881EDD329",
+    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v6.3/VideoFormatConverter.exe?download=1",
+    "version":  "6.3",
+    "notes":  "ترتيب الملفات: إضافة قسمين جديدين (الغابة والطبيعة، زوجة الأب)."
 }
