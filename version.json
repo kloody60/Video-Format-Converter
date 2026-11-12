@@ -1,6 +1,6 @@
 {
-    "sha256":  "FB35216D75E599022E14D2198BF7E816E66FD95F95E61BC9257773B031DD2A14",
-    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v6.7/VideoFormatConverter.exe?download=1",
-    "version":  "6.7",
-    "notes":  "مفاتيح التفعيل صارت قصيرة: ثلاث مجموعات من 8 خانات."
+    "sha256":  "8262B6F64172F78173FAB35F84A892073DBAC88DA0A85A65BA5914CA51C2D522",
+    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v6.8/VideoFormatConverter.exe?download=1",
+    "version":  "6.8",
+    "notes":  "التفعيل صار بمفتاح لجهاز واحد (أدوات برو: رفع الدقة والترجمة)."
 }
