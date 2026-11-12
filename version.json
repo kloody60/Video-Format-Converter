@@ -1,6 +1,6 @@
 {
-    "sha256":  "D747437008080F3117F02CFF337C120650946E7D059D98DDBED5FA00CF85941E",
-    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v6.5/VideoFormatConverter.exe?download=1",
-    "version":  "6.5",
-    "notes":  "تحميل الفيديوهات: متصفح خلفي يدخل صفحة الفيديو ويلقط رابط التحميل الحقيقي للمواقع التي تحمّل المشغّل بجافاسكربت، ويقرأ قوائم الفيديوهات التي تبنيها الصفحة بالجافاسكربت، مع الجودة المطلوبة."
+    "sha256":  "557CA234959916B658A252B475DB8AB848EC89306B1EFA813DB46C90FBD3B69A",
+    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v6.6/VideoFormatConverter.exe?download=1",
+    "version":  "6.6",
+    "notes":  "رفع الدقة بالذكاء الاصطناعي والترجمة صارا ضمن أدوات برو (مفتاح تفعيل). بقية الأدوات مجانية."
 }
