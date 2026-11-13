@@ -1,6 +1,6 @@
 {
-    "sha256":  "F6049C4713F9C974D3B66BEA352D61B0DBC0E0C8CD138A49F88FBCF69191AF84",
-    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v6.9/VideoFormatConverter.exe?download=1",
-    "version":  "6.9",
-    "notes":  "إصلاح إيقاف تحميل الفيديوهات، وثبات أفضل مع القوائم الكبيرة، وعرض سبب فشل الاتصال في التفعيل والتحديثات."
+    "sha256":  "2283EAC82DC5B68884630D3D55770539ABAE81C11DB73E73F6648B9F65976D2F",
+    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v7.0/VideoFormatConverter.exe?download=1",
+    "version":  "7.0",
+    "notes":  "البرنامج يعمل الآن دائماً كمسؤول. إصلاح إيقاف تحميل الفيديوهات وثبات أفضل مع القوائم الكبيرة."
 }
