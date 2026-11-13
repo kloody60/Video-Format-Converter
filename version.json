@@ -1,6 +1,6 @@
 {
-    "sha256":  "8262B6F64172F78173FAB35F84A892073DBAC88DA0A85A65BA5914CA51C2D522",
-    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v6.8/VideoFormatConverter.exe?download=1",
-    "version":  "6.8",
-    "notes":  "التفعيل صار بمفتاح لجهاز واحد (أدوات برو: رفع الدقة والترجمة)."
+    "sha256":  "F6049C4713F9C974D3B66BEA352D61B0DBC0E0C8CD138A49F88FBCF69191AF84",
+    "url":  "https://github.com/kloody60/Video-Format-Converter/releases/download/v6.9/VideoFormatConverter.exe?download=1",
+    "version":  "6.9",
+    "notes":  "إصلاح إيقاف تحميل الفيديوهات، وثبات أفضل مع القوائم الكبيرة، وعرض سبب فشل الاتصال في التفعيل والتحديثات."
 }
